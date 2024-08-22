@@ -1,0 +1,2 @@
+# An-lise-da-Sorveteria-Paraiso-Gelado-para-o-desafio-Dio-integ.-com-SQL
+Este BD foi criado ara servir com base para o desafio de projeto da DIO. Ele foi criado porque o BD Company sofreu poblemas ao inserir os script e então eu achei necessário criar um outro para exercitar oq foi pedido. Criar o BD no MYSQL e depois integrei com o power BI e realizei dois Gráficos de exemplo para demonstrar uma análise. 
